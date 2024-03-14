@@ -23,4 +23,5 @@ Three main files are available in [apriltags_ws/src/apriltag_ros/apriltag_ros/sc
 
 ## Video Presentation ##
 In the following video you can find more information related with the knowledge implemented to develop the algorithm.
+
 [![Watch the video: ](https://img.youtube.com/vi/yUcmC3FrjIs/0.jpg)](https://www.youtube.com/watch?v=yUcmC3FrjIs)
