@@ -16,7 +16,8 @@ This research project illustrates robotic manipulation through the integration o
    ```
 
 ## How to use the environment? ##
-The algorithm is available in [apriltags_ws/src/apriltag_ros/apriltag_ros/scripts](https://github.com/soyhorteconh/Visual_Servoing_Tiago/tree/final_version/apriltags_ws/src/apriltag_ros/apriltag_ros/scripts)
+Three main files are available in [apriltags_ws/src/apriltag_ros/apriltag_ros/scripts](https://github.com/soyhorteconh/Visual_Servoing_Tiago/tree/final_version/apriltags_ws/src/apriltag_ros/apriltag_ros/scripts). This files are the ones that allowed to analize the information from the Azure Kinect DK sensor, a visual servoing algorithm, and a simulation.
+
 
 ## Video Presentation ##
 In the following video you can find more information related with the knowledge implemented to develop the algorithm.
