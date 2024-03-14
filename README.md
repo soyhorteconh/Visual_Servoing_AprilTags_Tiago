@@ -21,6 +21,9 @@ Three main files are available in [apriltags_ws/src/apriltag_ros/apriltag_ros/sc
 - apriltag_controller_version2.cpp : A visual servoing that controls hand velocity using the robot hand pose, and the target pose.
 - apriltag_visualization_node.cpp : A simulation in real time that tracks the current hand pose, and the estimated hand pose.
 
+## How to initialize the environment? ##
+
+
 ## Video Presentation ##
 In the following video you can find more information related with the knowledge implemented to develop the algorithm.
 
