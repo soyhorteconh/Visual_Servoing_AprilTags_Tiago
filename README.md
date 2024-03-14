@@ -36,7 +36,11 @@ You must run the following ros nodes:
    ```
    rosrun apriltag_ros apriltag_controller
    ```
-    
+
+To run the simulation, you must run the following line on the terminal:
+   ```
+   rosrun apriltag_ros apriltag_visualization_node
+   ```
 
 ## Video Presentation ##
 In the following video you can find more information related with the knowledge implemented to develop the algorithm.
