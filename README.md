@@ -16,7 +16,7 @@ This research project illustrates robotic manipulation through the integration o
    ```
 
 ## How to use the environment? ##
-
+The algorithm is available in 
 
 ## Video Presentation ##
 In the following video you can find more information related with the knowledge implemented to develop the algorithm.
