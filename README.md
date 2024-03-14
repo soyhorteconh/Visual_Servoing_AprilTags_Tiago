@@ -46,3 +46,7 @@ To run the simulation, you must run the following line on the terminal:
 In the following video you can find more information related with the knowledge implemented to develop the algorithm.
 
 [![Watch the video: ](https://img.youtube.com/vi/yUcmC3FrjIs/0.jpg)](https://www.youtube.com/watch?v=yUcmC3FrjIs)
+
+## More resources ##
+-  [Slides](https://docs.google.com/presentation/d/1JiF8vAyw9AFGFByivEVC283qsfP_qi34kjyyWdaGK8Y/edit?usp=sharing)
+-  [More experiments](https://youtu.be/iPp35I5HD0M?si=KTpaimtGE39QFXr6)
