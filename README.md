@@ -10,6 +10,6 @@ To run the container:
 ./launch_bash.sh
 ```
 
-## Results ##
+## Video Presentation ##
 ###### Video Presentation ######
 [![Watch the video: ](https://img.youtube.com/vi/yUcmC3FrjIs/0.jpg)](https://www.youtube.com/watch?v=yUcmC3FrjIs)
