@@ -1,8 +1,13 @@
 # Enhancing TIAGo Robot Capabilities: Introducing Azure Kinect DK for Advanced Grasping of Kitchen Objects
 The RoboHand Navigator project advances robotic manipulation through the integration of visual markers, the Azure Kinect depth sensor, and the Tiago robot. It addresses challenges in marker detection accuracy, robot hand pose estimation, and efficient object manipulation. The project showcases real-time algorithm capabilities with improved marker detection and consistent pose predictions. The controller design enables precise control on the Tiago robot, demonstrating adaptability in various manipulation tasks. ((:
+
+To build the image from docker run:
 ```
-./buil.sh : to build image from dockerfile
-./launch_bash.sh : to run container
+./buil.sh
+```
+To run the container:
+```
+./launch_bash.sh
 ```
 
 ## Results ##
