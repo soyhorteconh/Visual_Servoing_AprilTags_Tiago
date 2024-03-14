@@ -22,11 +22,16 @@ Three main files are available in [apriltags_ws/src/apriltag_ros/apriltag_ros/sc
 - apriltag_visualization_node.cpp : A simulation in real time that tracks the current hand pose, and the estimated hand pose.
 
 ## How to initialize the environment? ##
-1. Start the Azure Kinect DK
+You must run the following ros nodes:
+1. Azure Kinect DK node
    ```
    roslaunch azure_kinect_ros_driver kinect_rgbd.launch
    ```
-3. 
+3. AprilTag information node
+    ```
+   rosrun apriltag_ros apriltag_information_node
+   ```
+    
 
 ## Video Presentation ##
 In the following video you can find more information related with the knowledge implemented to develop the algorithm.
