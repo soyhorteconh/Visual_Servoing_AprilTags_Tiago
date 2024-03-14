@@ -15,6 +15,9 @@ This research project illustrates robotic manipulation through the integration o
    ./launch_bash.sh
    ```
 
+## How to use the environment? ##
+
+
 ## Video Presentation ##
 In the following video you can find more information related with the knowledge implemented to develop the algorithm.
 [![Watch the video: ](https://img.youtube.com/vi/yUcmC3FrjIs/0.jpg)](https://www.youtube.com/watch?v=yUcmC3FrjIs)
