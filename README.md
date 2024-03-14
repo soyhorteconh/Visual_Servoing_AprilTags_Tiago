@@ -32,6 +32,10 @@ You must run the following ros nodes:
    rosrun apriltag_ros apriltag_information_node
    ```
     Note: The simultion can work just running the Azure Kinect DK node, and the Apriltag information node.
+3. Apriltag controller node
+   ```
+   rosrun apriltag_ros apriltag_controller
+   ```
     
 
 ## Video Presentation ##
