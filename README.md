@@ -8,7 +8,7 @@ This research project illustrates robotic manipulation through the integration o
    ```
 2. Build image from dockerfile (only once)
    ```
-   ./buil.sh
+   ./build.sh
    ```
 3. Run container (each time you'll use the container)
    ```
